@@ -2,7 +2,7 @@
 
 ## Description ℹ️
 
-This is an Implementation of for the paper [Open PDF](https://www.ijaresm.com/uploaded_files/document_file/Syed_Saad_Quadri9Ygx.pdf)
+This is an Implementation of for the paper [Meta GANs for Progressive Image Processing](https://www.ijaresm.com/uploaded_files/document_file/Syed_Saad_Quadri9Ygx.pdf)
 
 ## Description 📝
 
