@@ -23,6 +23,8 @@ GPU is a must to train the Machine Learning Model.
 ## Using Meta-GANs
 
 ![Alt text](Picture3.png)
+![Alt text](Picture5.png)
+
 
 
 Happy coding! 🖥️🔍
